@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ss1-s26dyp-ss2ud",
+    "date": "2026-04-25",
+    "type": "DailyQuiz",
+    "name": "NCERT Practice Quiz",
+    "examId": "",
+    "assessmentKey": "",
+    "subjectSplit": {
+      "Physics": 34,
+      "Chemistry": 38,
+      "Biology": 45
+    },
+    "totalScore": 117,
+    "targetScore": 150,
+    "accuracyPercent": 78,
+    "attemptPercent": 84,
+    "negativeLoss": 8
+  },
+  {
+    "id": "ss2-8befx6-ss2ud",
+    "date": "2026-04-27",
+    "type": "School",
+    "name": "School Weekly Test",
+    "examId": "",
+    "assessmentKey": "",
+    "subjectSplit": {
+      "Physics": 29,
+      "Chemistry": 35,
+      "Biology": 41
+    },
+    "totalScore": 105,
+    "targetScore": 150,
+    "accuracyPercent": 70,
+    "attemptPercent": 81,
+    "negativeLoss": 12
+  },
+  {
+    "id": "ss3-8udwb2-ss2ud",
+    "date": "2026-04-29",
+    "type": "AAKASH",
+    "name": "AIATS Mini",
+    "examId": "",
+    "assessmentKey": "",
+    "subjectSplit": {
+      "Physics": 42,
+      "Chemistry": 39,
+      "Biology": 51
+    },
+    "totalScore": 132,
+    "targetScore": 180,
+    "accuracyPercent": 73,
+    "attemptPercent": 86,
+    "negativeLoss": 10
+  },
+  {
+    "id": "score-8qn00j-svgn6",
+    "date": "2026-04-30",
+    "type": "DailyQuiz",
+    "name": "Testing",
+    "examId": "",
+    "assessmentKey": "",
+    "subjectSplit": {
+      "Physics": 100,
+      "Chemistry": 0,
+      "Biology": 0
+    },
+    "totalScore": 0,
+    "targetScore": 180,
+    "accuracyPercent": 0,
+    "attemptPercent": 0,
+    "negativeLoss": 0
+  },
+  {
+    "id": "score-mtv8zg-svirl",
+    "date": "2026-04-30",
+    "type": "DailyQuiz",
+    "name": "Assessment",
+    "examId": "",
+    "assessmentKey": "",
+    "subjectSplit": {
+      "Physics": 0,
+      "Chemistry": 0,
+      "Biology": 0
+    },
+    "totalScore": 0,
+    "targetScore": 180,
+    "accuracyPercent": 0,
+    "attemptPercent": 0,
+    "negativeLoss": 0
+  }
+]
