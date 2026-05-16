@@ -1,0 +1,15 @@
+{
+  "student": {
+    "name": "Dheeksha",
+    "gradeBoard": "Class 12 CBSE",
+    "schoolName": "SBOA Junior college",
+    "targetNeetScore": 680,
+    "timezone": "Asia/Kolkata"
+  },
+  "parent": {
+    "name": "Sivakumar",
+    "relation": "Father",
+    "email": "parent@example.com",
+    "phone": "+91-90000-00000"
+  }
+}
