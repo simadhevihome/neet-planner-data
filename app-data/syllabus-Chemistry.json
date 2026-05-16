@@ -1,0 +1,250 @@
+[
+  {
+    "id": "syl-u55hio-or4tl",
+    "displayName": "NCERT Chemistry Pt1and2",
+    "fileName": "NCERT Chemistry Pt1and2.pdf",
+    "chapters": [
+      {
+        "chapter": "Solutions",
+        "topic": "Types of Solutions"
+      },
+      {
+        "chapter": "Solutions",
+        "topic": "Expressing Concentration of Solutions"
+      },
+      {
+        "chapter": "Solutions",
+        "topic": "Solubility"
+      },
+      {
+        "chapter": "Solutions",
+        "topic": "Vapour Pressure of Liquid Solutions"
+      },
+      {
+        "chapter": "Solutions",
+        "topic": "Ideal and Non-ideal Solutions"
+      },
+      {
+        "chapter": "Solutions",
+        "topic": "Colligative Properties and Determination of Molar Mass"
+      },
+      {
+        "chapter": "Solutions",
+        "topic": "Abnormal Molar Masses"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Electrochemical Cells"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Galvanic Cells"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Nernst Equation"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Conductance of Electrolytic Solutions"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Electrolytic Cells and Electrolysis"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Batteries"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Fuel Cells"
+      },
+      {
+        "chapter": "Electrochemistry",
+        "topic": "Corrosion"
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topic": "Rate of a Chemical Reaction"
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topic": "Factors Influencing Rate of Reaction"
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topic": "Integrated Rate Equations"
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topic": "Temperature Dependence of Rate"
+      },
+      {
+        "chapter": "Chemical Kinetics",
+        "topic": "Collision Theory of Reactions"
+      },
+      {
+        "chapter": "The d-and f-Block Elements",
+        "topic": "Position in Periodic Table"
+      },
+      {
+        "chapter": "The d-and f-Block Elements",
+        "topic": "Electronic Configurations"
+      },
+      {
+        "chapter": "The d-and f-Block Elements",
+        "topic": "General Properties"
+      },
+      {
+        "chapter": "The d-and f-Block Elements",
+        "topic": "Important Compounds"
+      },
+      {
+        "chapter": "The d-and f-Block Elements",
+        "topic": "Lanthanoids"
+      },
+      {
+        "chapter": "The d-and f-Block Elements",
+        "topic": "Actinoids"
+      },
+      {
+        "chapter": "The d-and f-Block Elements",
+        "topic": "Applications"
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topic": "Werner’s Theory"
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topic": "Definitions and Terminology"
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topic": "Nomenclature"
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topic": "Isomerism"
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topic": "Bonding"
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topic": "Metal Carbonyls"
+      },
+      {
+        "chapter": "Coordination Compounds",
+        "topic": "Applications"
+      },
+      {
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Classification and Nomenclature"
+      },
+      {
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Preparation"
+      },
+      {
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Properties"
+      },
+      {
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Reactions"
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Classification"
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Preparation"
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Properties"
+      },
+      {
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Reactions"
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Structure"
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Preparation"
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Properties"
+      },
+      {
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Reactions"
+      },
+      {
+        "chapter": "Amines",
+        "topic": "Classification"
+      },
+      {
+        "chapter": "Amines",
+        "topic": "Preparation"
+      },
+      {
+        "chapter": "Amines",
+        "topic": "Properties"
+      },
+      {
+        "chapter": "Amines",
+        "topic": "Reactions"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Carbohydrates"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Proteins"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Vitamins"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Nucleic Acids"
+      },
+      {
+        "chapter": "Polymers",
+        "topic": "Types of Polymers"
+      },
+      {
+        "chapter": "Polymers",
+        "topic": "Polymerisation"
+      },
+      {
+        "chapter": "Polymers",
+        "topic": "Properties and Uses"
+      },
+      {
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Drugs"
+      },
+      {
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Cleansing Agents"
+      },
+      {
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Food Chemicals"
+      }
+    ],
+    "uploadedAt": "2026-05-03T11:26:57.321Z"
+  }
+]
