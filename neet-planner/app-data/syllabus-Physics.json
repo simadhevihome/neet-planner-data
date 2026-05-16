@@ -1,0 +1,1229 @@
+[
+  {
+    "id": "syl-deecag-qinfv",
+    "displayName": "NCERT Physics Part1",
+    "fileName": "NCERT Physics Part1.pdf",
+    "classScope": "12th",
+    "chapters": [
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Charge",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Conductors and Insulators",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Basic Properties of Electric Charge",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Coulomb’s Law",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Forces between Multiple Charges",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Field",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Field Lines",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Flux",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Dipole",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Dipole in a Uniform External Field",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Continuous Charge Distribution",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Gauss’s Law",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Applications of Gauss’s Law",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Electrostatic Potential",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Potential due to a Point Charge",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Potential due to an Electric Dipole",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Potential due to a System of Charges",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Equipotential Surfaces",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Potential Energy of a System of Charges",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Potential Energy in an External Field",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Electrostatics of Conductors",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Dielectrics and Polarisation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Capacitors and Capacitance",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "The Parallel Plate Capacitor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Effect of Dielectric on Capacitance",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Combination of Capacitors",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Energy Stored in a Capacitor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Electric Current",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Electric Currents in Conductors",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Ohm’s Law",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Drift of Electrons and the Origin of Resistivity",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Limitations of Ohm’s Law",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Resistivity of Various Materials",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Temperature Dependence of Resistivity",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Electrical Energy and Power",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Cells, EMF, Internal Resistance",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Cells in Series and in Parallel",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Kirchhoff’s Rules",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Wheatstone Bridge",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Magnetic Force",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Motion in a Magnetic Field",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Magnetic Field due to a Current Element (Biot–Savart Law)",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Magnetic Field on the Axis of a Circular Current Loop",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Ampere’s Circuital Law",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "The Solenoid",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Force between Two Parallel Currents",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Torque on Current Loop, Magnetic Dipole",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Moving Coil Galvanometer",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "The Bar Magnet",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "Magnetism and Gauss’s Law",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "Magnetisation and Magnetic Intensity",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "Magnetic Properties of Materials",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Experiments of Faraday and Henry",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Magnetic Flux",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Faraday’s Law of Induction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Lenz’s Law and Conservation of Energy",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Motional Electromotive Force",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Inductance",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "AC Generator",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "AC Voltage Applied to a Resistor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "Representation of AC Current and Voltage (Phasors)",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "AC Voltage Applied to an Inductor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "AC Voltage Applied to a Capacitor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "AC Voltage Applied to a Series LCR Circuit",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "Power in AC Circuit: Power Factor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "Transformers",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topic": "Displacement Current",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topic": "Electromagnetic Waves",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topic": "Electromagnetic Spectrum",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Reflection of Light by Spherical Mirrors",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Refraction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Total Internal Reflection",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Refraction at Spherical Surfaces and Lenses",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Refraction through a Prism",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Optical Instruments",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Huygens Principle",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Interference of Light",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Diffraction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Polarisation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Electron Emission",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Photoelectric Effect",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Experimental Study of Photoelectric Effect",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Photoelectric Effect and Wave Theory of Light",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Einstein’s Photoelectric Equation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Particle Nature of Light",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Wave Nature of Matter",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Alpha-Particle Scattering and Rutherford’s Model",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Bohr Model of the Hydrogen Atom",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Line Spectra of the Hydrogen Atom",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "De Broglie’s Explanation of Bohr’s Model",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Limitations of Bohr’s Model",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Atomic Masses and Composition of Nucleus",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Size of the Nucleus",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Mass-Energy and Nuclear Binding Energy",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Nuclear Force",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Radioactivity",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Nuclear Energy",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Nuclear Fission and Fusion",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Introduction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Classification of Metals, Conductors and Semiconductors",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Intrinsic Semiconductor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Extrinsic Semiconductor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "p-n Junction",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Diode and its Characteristics",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Application of Junction Diode",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Transistor",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Logic Gates",
+        "classScope": "12th"
+      }
+    ],
+    "uploadedAt": "2026-05-02T19:28:34.603Z"
+  },
+  {
+    "id": "syl-8174v1-h49e8",
+    "displayName": "keph1ps",
+    "fileName": "keph1ps.pdf",
+    "classScope": "11th",
+    "chapters": [
+      {
+        "chapter": "Units and Measurement",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Units and Measurement",
+        "topic": "The International System of Units",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Units and Measurement",
+        "topic": "Significant Figures",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Units and Measurement",
+        "topic": "Dimensions of Physical Quantities",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Units and Measurement",
+        "topic": "Dimensional Formulae and Dimensional Equations",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Units and Measurement",
+        "topic": "Dimensional Analysis and its Applications",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Straight Line",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Straight Line",
+        "topic": "Instantaneous Velocity and Speed",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Straight Line",
+        "topic": "Acceleration",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Straight Line",
+        "topic": "Kinematic Equations for Uniformly Accelerated Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Straight Line",
+        "topic": "Relative Velocity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Scalars and Vectors",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Multiplication of Vectors by Real Numbers",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Addition and Subtraction of Vectors – Graphical Method",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Resolution of Vectors",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Vector Addition – Analytical Method",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Motion in a Plane",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Motion in a Plane with Constant Acceleration",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Projectile Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Motion in a Plane",
+        "topic": "Uniform Circular Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Aristotle’s Fallacy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "The Law of Inertia",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Newton’s First Law of Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Newton’s Second Law of Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Newton’s Third Law of Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Conservation of Momentum",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Equilibrium of a Particle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Common Forces in Mechanics",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Circular Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Laws of Motion",
+        "topic": "Solving Problems in Mechanics",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "Notions of Work and Kinetic Energy : The Work-Energy Theorem",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "Work",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "Kinetic Energy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "Work Done by a Variable Force",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "The Work-Energy Theorem for a Variable Force",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "The Concept of Potential Energy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "The Conservation of Mechanical Energy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "The Potential Energy of a Spring",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "Power",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Work, Energy and Power",
+        "topic": "Collisions",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Centre of Mass",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Motion of Centre of Mass",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Linear Momentum of a System of Particles",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Vector Product of Two Vectors",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Angular Velocity and its Relation with Linear Velocity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Torque and Angular Momentum",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Equilibrium of a Rigid Body",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Moment of Inertia",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Kinematics of Rotational Motion about a Fixed Axis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Dynamics of Rotational Motion about a Fixed Axis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Systems of Particles and Rotational Motion",
+        "topic": "Angular Momentum in case of Rotation about a Fixed Axis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Kepler’s Laws",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Universal Law of Gravitation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "The Gravitational Constant",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Acceleration due to Gravity of the Earth",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Acceleration due to Gravity below and above the Surface of Earth",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Gravitational Potential Energy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Escape Speed",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Earth Satellites",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Gravitation",
+        "topic": "Energy of an Orbiting Satellite",
+        "classScope": "11th"
+      }
+    ],
+    "uploadedAt": "2026-05-09T15:03:08.434Z"
+  },
+  {
+    "id": "syl-6j4rxm-h5nmp",
+    "displayName": "keph2ps",
+    "fileName": "keph2ps.pdf",
+    "classScope": "11th",
+    "chapters": [
+      {
+        "chapter": "Mechanical Properties of Solids",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Solids",
+        "topic": "Stress and Strain",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Solids",
+        "topic": "Hooke’s Law",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Solids",
+        "topic": "Stress-Strain Curve",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Solids",
+        "topic": "Elastic Moduli",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Solids",
+        "topic": "Applications of Elastic Behaviour of Materials",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "topic": "Pressure",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "topic": "Streamline Flow",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "topic": "Bernoulli’s Principle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "topic": "Viscosity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mechanical Properties of Fluids",
+        "topic": "Surface Tension",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Temperature and Heat",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Measurement of Temperature",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Ideal-Gas Equation and Absolute Temperature",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Thermal Expansion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Specific Heat Capacity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Calorimetry",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Change of State",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Heat Transfer",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Newton’s Law of Cooling",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Thermal Equilibrium",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Zeroth Law of Thermodynamics",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Heat, Internal Energy and Work",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "First Law of Thermodynamics",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Specific Heat Capacity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Thermodynamic State Variables and Equation of State",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Thermodynamic Processes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Second Law of Thermodynamics",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Reversible and Irreversible Processes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Thermodynamics",
+        "topic": "Carnot Engine",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Kinetic Theory",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Kinetic Theory",
+        "topic": "Molecular Nature of Matter",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Kinetic Theory",
+        "topic": "Behaviour of Gases",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Kinetic Theory",
+        "topic": "Kinetic Theory of an Ideal Gas",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Kinetic Theory",
+        "topic": "Law of Equipartition of Energy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Kinetic Theory",
+        "topic": "Specific Heat Capacity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Kinetic Theory",
+        "topic": "Mean Free Path",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "Periodic and Oscillatory Motions",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "Simple Harmonic Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "Simple Harmonic Motion and Uniform Circular Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "Velocity and Acceleration in Simple Harmonic Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "Force Law for Simple Harmonic Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "Energy in Simple Harmonic Motion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Oscillations",
+        "topic": "The Simple Pendulum",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Waves",
+        "topic": "Introduction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Waves",
+        "topic": "Transverse and Longitudinal Waves",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Waves",
+        "topic": "Displacement Relation in a Progressive Wave",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Waves",
+        "topic": "The Speed of a Travelling Wave",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Waves",
+        "topic": "The Principle of Superposition of Waves",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Waves",
+        "topic": "Reflection of Waves",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Waves",
+        "topic": "Beats",
+        "classScope": "11th"
+      }
+    ],
+    "uploadedAt": "2026-05-09T15:04:13.537Z"
+  }
+]
