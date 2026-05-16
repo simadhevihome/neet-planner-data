@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "syl-p7owug-tj5zt",
+    "displayName": "NCERT Biology Pt1",
+    "fileName": "NCERT Biology Pt1.pdf",
+    "classScope": "12th",
+    "chapters": [
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Flower – A Fascinating Organ of Angiosperms",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Pre-fertilisation: Structures and Events",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Double Fertilisation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Post-fertilisation: Structures and Events",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Apomixis and Polyembryony",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "The Male Reproductive System",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "The Female Reproductive System",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Gametogenesis",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Menstrual Cycle",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Fertilisation and Implantation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Pregnancy and Embryonic Development",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Parturition and Lactation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Reproductive Health – Problems and Strategies",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Population Explosion and Birth Control",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Medical Termination of Pregnancy",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Sexually Transmitted Diseases",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Infertility",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mendel’s Laws of Inheritance",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Inheritance of One Gene",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Inheritance of Two Genes",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Sex Determination",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mutation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Genetic Disorders",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "The DNA",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "The Search for Genetic Material",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "RNA World",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Replication",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Transcription",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Genetic Code",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Translation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Regulation of Gene Expression",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Human Genome Project",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "DNA Fingerprinting",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Origin of Life",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Evolution of Life Forms - A Theory",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Evidences for Evolution",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Adaptive Radiation",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Biological Evolution",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Mechanism of Evolution",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Hardy-Weinberg Principle",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "A Brief Account of Evolution",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Origin and Evolution of Man",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "Common Diseases in Humans",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "Immunity",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "AIDS",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "Cancer",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "Drugs and Alcohol Abuse",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Household Products",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Industrial Products",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Sewage Treatment",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Production of Biogas",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes as Biocontrol Agents",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes as Biofertilisers",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Biotechnology: Principles and Processes",
+        "topic": "",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Biotechnology and Its Applications",
+        "topic": "Biotechnological Applications in Agriculture",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Biotechnology and Its Applications",
+        "topic": "Biotechnological Applications in Medicine",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Biotechnology and Its Applications",
+        "topic": "Transgenic Animals",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Biotechnology and Its Applications",
+        "topic": "Ethical Issues",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Organisms and Populations",
+        "topic": "",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Ecosystem – Structure and Function",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Productivity",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Decomposition",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Energy Flow",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Ecological Pyramids",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Biodiversity and Conservation",
+        "topic": "Biodiversity",
+        "classScope": "12th"
+      },
+      {
+        "chapter": "Biodiversity and Conservation",
+        "topic": "Biodiversity Conservation",
+        "classScope": "12th"
+      }
+    ],
+    "uploadedAt": "2026-05-02T20:52:57.498Z"
+  },
+  {
+    "id": "syl-d3xzjy-gz73g",
+    "displayName": "NCERT-Class-11-Biology",
+    "fileName": "NCERT-Class-11-Biology.pdf",
+    "classScope": "11th",
+    "chapters": [
+      {
+        "chapter": "The Living World",
+        "topic": "What is Living?",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Biodiversity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Need for Classification",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Taxonomy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Systematics",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Taxonomic Categories",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Species",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Genus",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Family",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Order",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Class",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Phylum",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Kingdom",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Taxonomical Aids",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Herbarium",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Botanical Gardens",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Museums",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Zoological Parks",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "The Living World",
+        "topic": "Key",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Five Kingdom Classification",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Kingdom Monera",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Archaebacteria",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Eubacteria",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Cyanobacteria",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Mycoplasma",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Kingdom Protista",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Chrysophytes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Dinoflagellates",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Euglenoids",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Slime Moulds",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Protozoans",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Kingdom Fungi",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Phycomycetes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Ascomycetes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Basidiomycetes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Deuteromycetes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Viruses",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Viroids",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biological Classification",
+        "topic": "Lichens",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Algae",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Chlorophyceae",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Phaeophyceae",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Rhodophyceae",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Bryophytes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Pteridophytes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Gymnosperms",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Angiosperms",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Kingdom",
+        "topic": "Plant Life Cycles and Alternation of Generations",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Basis of Classification",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Levels of Organisation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Symmetry",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Diploblastic and Triploblastic Organisation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Coelom",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Segmentation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Notochord",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Porifera",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Cnidaria",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Ctenophora",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Platyhelminthes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Aschelminthes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Annelida",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Arthropoda",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Mollusca",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Echinodermata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Hemichordata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Chordata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Urochordata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Cephalochordata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Vertebrata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Cyclostomata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Chondrichthyes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Osteichthyes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Amphibia",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Reptilia",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Aves",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Animal Kingdom",
+        "topic": "Mammalia",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Morphology of Different Parts of Flowering Plants",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Root",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Stem",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Leaf",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Inflorescence",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Flower",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Fruit",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Seed",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Semi-technical Description of a Flowering Plant",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Description of Some Important Families",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Fabaceae",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Solanaceae",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Morphology of Flowering Plants",
+        "topic": "Liliaceae",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Tissues",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Meristematic Tissues",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Permanent Tissues",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Complex Tissues",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Xylem",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Phloem",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Internal Structure of Dicot Root",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Internal Structure of Monocot Root",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Internal Structure of Dicot Stem",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Internal Structure of Monocot Stem",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Internal Structure of Dorsiventral Leaf",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Internal Structure of Isobilateral Leaf",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Anatomy of Flowering Plants",
+        "topic": "Secondary Growth",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Animal Tissues",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Epithelial Tissue",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Connective Tissue",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Muscular Tissue",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Neural Tissue",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Cockroach",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Morphology of Cockroach",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Anatomy of Cockroach",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Frog",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Morphology of Frog",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Structural Organisation in Animals",
+        "topic": "Anatomy of Frog",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cell Theory",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cell as the Basic Unit of Life",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Prokaryotic Cells",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Eukaryotic Cells",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cell Envelope",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cell Membrane",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cell Wall",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cell Organelles",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Endomembrane System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Mitochondria",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Plastids",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Ribosomes",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cytoskeleton",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Cilia and Flagella",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Centrosome and Centrioles",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell: The Unit of Life",
+        "topic": "Nucleus",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Primary and Secondary Metabolites",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Biomacromolecules",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Proteins",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Polysaccharides",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Nucleic Acids",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Structure of Proteins",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Nature of Bond Linking Monomers in a Polymer",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Dynamic State of Body Constituents",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Metabolism",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "Metabolic Basis for Living",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Biomolecules",
+        "topic": "The Living State",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell Cycle and Cell Division",
+        "topic": "Cell Cycle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell Cycle and Cell Division",
+        "topic": "Interphase",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell Cycle and Cell Division",
+        "topic": "M Phase",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell Cycle and Cell Division",
+        "topic": "Mitosis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell Cycle and Cell Division",
+        "topic": "Meiosis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell Cycle and Cell Division",
+        "topic": "Significance of Mitosis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Cell Cycle and Cell Division",
+        "topic": "Significance of Meiosis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Means of Transport",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Passive Transport",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Active Transport",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Plant-Water Relations",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Imbibition",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Diffusion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Facilitated Diffusion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Osmosis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Plasmolysis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Water Potential",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Absorption of Water",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Apoplast Pathway",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Symplast Pathway",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Transpiration",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Opening and Closing of Stomata",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Uptake and Transport of Mineral Nutrients",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Transport in Plants",
+        "topic": "Translocation of Food",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Methods to Study the Mineral Requirements of Plants",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Essential Mineral Elements",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Macronutrients",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Micronutrients",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Deficiency Symptoms of Essential Elements",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Toxicity of Micronutrients",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Nitrogen Cycle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Mineral Nutrition",
+        "topic": "Biological Nitrogen Fixation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Early Experiments",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Where does Photosynthesis Take Place?",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Pigments Involved in Photosynthesis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Light Reaction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Photolysis of Water",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Cyclic Photophosphorylation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Non-Cyclic Photophosphorylation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Calvin Cycle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "C4 Pathway",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Photorespiration",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Photosynthesis in Higher Plants",
+        "topic": "Factors Affecting Photosynthesis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Do Plants Breathe?",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Glycolysis",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Fermentation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Aerobic Respiration",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Krebs Cycle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Electron Transport System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Oxidative Phosphorylation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Respiratory Balance Sheet",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Amphibolic Pathway",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Respiration in Plants",
+        "topic": "Respiratory Quotient",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Growth",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Phases of Growth",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Growth Rates",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Conditions for Growth",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Differentiation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Dedifferentiation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Redifferentiation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Development",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Plant Growth Regulators",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Auxins",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Gibberellins",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Cytokinins",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Ethylene",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Abscisic Acid",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Seed Dormancy",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Vernalisation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Plant Growth and Development",
+        "topic": "Photoperiodism",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Digestion and Absorption",
+        "topic": "Human Digestive System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Digestion and Absorption",
+        "topic": "Alimentary Canal",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Digestion and Absorption",
+        "topic": "Digestive Glands",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Digestion and Absorption",
+        "topic": "Digestion of Food",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Digestion and Absorption",
+        "topic": "Absorption of Digested Products",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Digestion and Absorption",
+        "topic": "Disorders of Digestive System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Breathing and Exchange of Gases",
+        "topic": "Respiratory Organs",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Breathing and Exchange of Gases",
+        "topic": "Human Respiratory System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Breathing and Exchange of Gases",
+        "topic": "Mechanism of Breathing",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Breathing and Exchange of Gases",
+        "topic": "Exchange of Gases",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Breathing and Exchange of Gases",
+        "topic": "Transport of Gases",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Breathing and Exchange of Gases",
+        "topic": "Regulation of Respiration",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Breathing and Exchange of Gases",
+        "topic": "Disorders of Respiratory System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Blood",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Lymph",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Blood Groups",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Coagulation of Blood",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Human Circulatory System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Cardiac Cycle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Electrocardiograph",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Double Circulation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Regulation of Cardiac Activity",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Body Fluids and Circulation",
+        "topic": "Disorders of Circulatory System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Human Excretory System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Urine Formation",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Function of Tubules",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Mechanism of Concentration of Filtrate",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Regulation of Kidney Function",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Micturition",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Role of Other Organs in Excretion",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Excretory Products and their Elimination",
+        "topic": "Disorders of Excretory System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Types of Movement",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Muscle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Skeletal Muscle",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Contractile Proteins",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Mechanism of Muscle Contraction",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Skeletal System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Joints",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Locomotion and Movement",
+        "topic": "Disorders of Muscular and Skeletal System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Neural Control and Coordination",
+        "topic": "Neuron",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Neural Control and Coordination",
+        "topic": "Central Nervous System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Neural Control and Coordination",
+        "topic": "Peripheral Nervous System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Neural Control and Coordination",
+        "topic": "Reflex Action",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Neural Control and Coordination",
+        "topic": "Sensory Reception and Processing",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Neural Control and Coordination",
+        "topic": "Eye",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Neural Control and Coordination",
+        "topic": "Ear",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Endocrine Glands and Hormones",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Human Endocrine System",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Hypothalamus",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Pituitary Gland",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Thyroid Gland",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Parathyroid Glands",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Pancreas",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Adrenal Gland",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Gonads",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Mechanism of Hormone Action",
+        "classScope": "11th"
+      },
+      {
+        "chapter": "Chemical Coordination and Integration",
+        "topic": "Role of Hormones as Messengers",
+        "classScope": "11th"
+      }
+    ],
+    "uploadedAt": "2026-05-09T14:59:12.172Z"
+  }
+]
