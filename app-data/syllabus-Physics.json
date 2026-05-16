@@ -1,0 +1,302 @@
+[
+  {
+    "id": "syl-biwzxm-oobht",
+    "displayName": "NCERT Physics Pt1and2",
+    "fileName": "NCERT Physics Pt1and2.pdf",
+    "chapters": [
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Charge"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Coulomb’s Law"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Field"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Field Lines"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric Dipole"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Gauss’s Law"
+      },
+      {
+        "chapter": "Electric Charges and Fields",
+        "topic": "Applications of Gauss’s Law"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Electric Potential"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Potential due to Point Charge"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Equipotential Surfaces"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Capacitance"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Parallel Plate Capacitor"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Combination of Capacitors"
+      },
+      {
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Energy Stored in Capacitor"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Electric Current"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Ohm’s Law"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Drift Velocity"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Resistance and Resistivity"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Kirchhoff’s Laws"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Wheatstone Bridge"
+      },
+      {
+        "chapter": "Current Electricity",
+        "topic": "Electrical Power"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Magnetic Force"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Motion in Magnetic Field"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Biot-Savart Law"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Ampere’s Circuital Law"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Magnetic Field of Circular Loop"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Force Between Parallel Currents"
+      },
+      {
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Moving Coil Galvanometer"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "Bar Magnet"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "Magnetisation"
+      },
+      {
+        "chapter": "Magnetism and Matter",
+        "topic": "Magnetic Properties of Materials"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Faraday’s Laws"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Lenz’s Law"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Motional EMF"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Self Inductance"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "Mutual Inductance"
+      },
+      {
+        "chapter": "Electromagnetic Induction",
+        "topic": "AC Generator"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "AC Voltage and Current"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "Phasor Representation"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "LCR Circuit"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "Power Factor"
+      },
+      {
+        "chapter": "Alternating Current",
+        "topic": "Transformer"
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topic": "Displacement Current"
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topic": "Electromagnetic Waves"
+      },
+      {
+        "chapter": "Electromagnetic Waves",
+        "topic": "Electromagnetic Spectrum"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Reflection of Light"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Refraction"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Total Internal Reflection"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Lens Formula"
+      },
+      {
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Optical Instruments"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Huygens Principle"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Interference"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Diffraction"
+      },
+      {
+        "chapter": "Wave Optics",
+        "topic": "Polarisation"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Photoelectric Effect"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Einstein’s Equation"
+      },
+      {
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "de Broglie Hypothesis"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Bohr Model"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Energy Levels"
+      },
+      {
+        "chapter": "Atoms",
+        "topic": "Hydrogen Spectrum"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Radioactivity"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Nuclear Reactions"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Mass-Energy Relation"
+      },
+      {
+        "chapter": "Nuclei",
+        "topic": "Binding Energy"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Energy Bands"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Intrinsic and Extrinsic Semiconductors"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "PN Junction"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Diode"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Transistor"
+      },
+      {
+        "chapter": "Semiconductor Electronics",
+        "topic": "Logic Gates"
+      },
+      {
+        "chapter": "Communication Systems",
+        "topic": "Elements of Communication"
+      },
+      {
+        "chapter": "Communication Systems",
+        "topic": "Signal Propagation"
+      },
+      {
+        "chapter": "Communication Systems",
+        "topic": "Modulation"
+      }
+    ],
+    "uploadedAt": "2026-05-03T11:24:46.002Z"
+  }
+]
