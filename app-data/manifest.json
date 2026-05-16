@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-05-03T11:46:01.907Z",
+  "sections": {
+    "profiles": "profiles.json",
+    "settings": "settings.json",
+    "schedule": {
+      "AAKASH": "schedule-aakash.json",
+      "School": "schedule-school.json"
+    },
+    "syllabus": {
+      "Physics": "syllabus-Physics.json",
+      "Chemistry": "syllabus-Chemistry.json",
+      "Biology": "syllabus-Biology.json"
+    },
+    "scores": "student-scores.json",
+    "errorLog": "student-errors.json",
+    "pyqAttempts": "pyq-attempts.json",
+    "pyqQuestionStats": "pyq-question-stats.json"
+  }
+}
