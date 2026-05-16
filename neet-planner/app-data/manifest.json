@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-05-16T18:10:05.489Z",
+  "sections": {
+    "profiles": "profiles.json",
+    "settings": "settings.json",
+    "schedule": {
+      "AAKASH": "schedule-aakash.json",
+      "School": "schedule-school.json"
+    },
+    "syllabus": {
+      "Physics": "syllabus-Physics.json",
+      "Chemistry": "syllabus-Chemistry.json",
+      "Biology": "syllabus-Biology.json"
+    },
+    "scores": "student-scores.json",
+    "errorLog": "student-errors.json",
+    "tasks": "tasks.json",
+    "ltProgress": "lt-progress.json"
+  }
+}
