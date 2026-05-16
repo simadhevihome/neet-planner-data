@@ -1,0 +1,14 @@
+[
+  {
+    "id": "seed-neet-2026",
+    "type": "School",
+    "name": "NEET UG 2026",
+    "date": "2026-05-04",
+    "time": "14:00",
+    "subjectMode": "Mixed",
+    "syllabus": "Full syllabus — Physics, Chemistry, Biology NCERT Class 11 & 12",
+    "priority": "High",
+    "calendarEventId": "",
+    "source": "embedded"
+  }
+]
