@@ -1,0 +1,9 @@
+{
+  "maxCatchupTasksPerDay": 3,
+  "maxPlannedMinutesPerDay": 300,
+  "subjectWeightDefault": {
+    "Physics": 45,
+    "Chemistry": 35,
+    "Biology": 20
+  }
+}
