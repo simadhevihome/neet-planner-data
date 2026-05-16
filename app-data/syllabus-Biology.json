@@ -1,0 +1,454 @@
+[
+  {
+    "id": "syl-f3i371-os6ll",
+    "displayName": "NCERT Biology Pt1",
+    "fileName": "NCERT Biology Pt1.pdf",
+    "chapters": [
+      {
+        "chapter": "Reproduction in Organisms",
+        "topic": "Asexual Reproduction"
+      },
+      {
+        "chapter": "Reproduction in Organisms",
+        "topic": "Sexual Reproduction"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Structure of Flower"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Pollination"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Fertilisation"
+      },
+      {
+        "chapter": "Sexual Reproduction in Flowering Plants",
+        "topic": "Seed Formation"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Male Reproductive System"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Female Reproductive System"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Gametogenesis"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Menstrual Cycle"
+      },
+      {
+        "chapter": "Human Reproduction",
+        "topic": "Fertilisation and Implantation"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Population Explosion"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Birth Control Methods"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Sexually Transmitted Diseases"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Infertility"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mendelian Inheritance"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Chromosomal Theory"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mutation"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "DNA Structure"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Replication"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Transcription"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Translation"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Genetic Code"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Origin of Life"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Darwin Theory"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Hardy Weinberg Principle"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "Pathogens"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "Immunity"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "AIDS"
+      },
+      {
+        "chapter": "Human Health and Disease",
+        "topic": "Cancer"
+      },
+      {
+        "chapter": "Strategies for Enhancement in Food Production",
+        "topic": "Animal Husbandry"
+      },
+      {
+        "chapter": "Strategies for Enhancement in Food Production",
+        "topic": "Plant Breeding"
+      },
+      {
+        "chapter": "Strategies for Enhancement in Food Production",
+        "topic": "Tissue Culture"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Household Products"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Industrial Products"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Sewage Treatment"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes in Biogas Production"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes as Biocontrol Agents"
+      },
+      {
+        "chapter": "Microbes in Human Welfare",
+        "topic": "Microbes as Biofertilisers"
+      },
+      {
+        "chapter": "Biotechnology: Principles and Processes",
+        "topic": "Genetic Engineering"
+      },
+      {
+        "chapter": "Biotechnology: Principles and Processes",
+        "topic": "Tools of rDNA Technology"
+      },
+      {
+        "chapter": "Biotechnology: Principles and Processes",
+        "topic": "Processes of rDNA Technology"
+      },
+      {
+        "chapter": "Biotechnology and Its Applications",
+        "topic": "Biotechnological Applications"
+      },
+      {
+        "chapter": "Biotechnology and Its Applications",
+        "topic": "Genetically Modified Organisms"
+      },
+      {
+        "chapter": "Biotechnology and Its Applications",
+        "topic": "Ethical Issues"
+      },
+      {
+        "chapter": "Organisms and Populations",
+        "topic": "Population Interactions"
+      },
+      {
+        "chapter": "Organisms and Populations",
+        "topic": "Adaptations"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Energy Flow"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Food Chain"
+      },
+      {
+        "chapter": "Ecosystem",
+        "topic": "Ecological Pyramids"
+      },
+      {
+        "chapter": "Biodiversity and Conservation",
+        "topic": "Biodiversity Levels"
+      },
+      {
+        "chapter": "Biodiversity and Conservation",
+        "topic": "Conservation Methods"
+      },
+      {
+        "chapter": "Environmental Issues",
+        "topic": "Pollution"
+      },
+      {
+        "chapter": "Environmental Issues",
+        "topic": "Global Warming"
+      },
+      {
+        "chapter": "Environmental Issues",
+        "topic": "Ozone Depletion"
+      }
+    ],
+    "uploadedAt": "2026-05-03T11:27:46.281Z"
+  },
+  {
+    "id": "syl-anlasr-osp5r",
+    "displayName": "NCERT_Biology_Part2",
+    "fileName": "NCERT_Biology_Part2.pdf",
+    "chapters": [
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mendel’s Laws of Inheritance"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Inheritance of One Gene"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Inheritance of Two Genes"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Law of Dominance"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Law of Segregation"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Incomplete Dominance"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Co-dominance"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Multiple Alleles"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Polygenic Inheritance"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Pleiotropy"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Sex Determination"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Sex Determination in Humans"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Sex Determination in Honey Bee"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mutation"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Genetic Disorders"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Pedigree Analysis"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mendelian Disorders"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "DNA Structure"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "DNA Replication"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Transcription"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Translation"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Genetic Code"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Regulation of Gene Expression"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Origin of Life"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Evolutionary Theories"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Hardy-Weinberg Principle"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Adaptive Radiation"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Speciation"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Human Evolution"
+      }
+    ],
+    "uploadedAt": "2026-05-03T11:28:10.335Z"
+  },
+  {
+    "id": "syl-qkvc6b-oymj6",
+    "displayName": "NCERT_Biology_Part3_v2",
+    "fileName": "NCERT_Biology_Part3_v2.pdf",
+    "chapters": [
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Reproductive Health – Problems and Strategies"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Population Stabilisation and Birth Control"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Medical Termination of Pregnancy"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Sexually Transmitted Infections"
+      },
+      {
+        "chapter": "Reproductive Health",
+        "topic": "Infertility"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mendel’s Laws of Inheritance"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Inheritance of One Gene"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Inheritance of Two Genes"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Sex Determination"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Mutation"
+      },
+      {
+        "chapter": "Principles of Inheritance and Variation",
+        "topic": "Genetic Disorders"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "DNA Structure"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "DNA Replication"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Transcription"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Translation"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Genetic Code"
+      },
+      {
+        "chapter": "Molecular Basis of Inheritance",
+        "topic": "Regulation of Gene Expression"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Origin of Life"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Evolutionary Theories"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Hardy-Weinberg Principle"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Speciation"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Adaptive Radiation"
+      },
+      {
+        "chapter": "Evolution",
+        "topic": "Human Evolution"
+      }
+    ],
+    "uploadedAt": "2026-05-03T11:32:46.866Z"
+  }
+]
