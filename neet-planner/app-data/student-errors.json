@@ -1,0 +1,30 @@
+[
+  {
+    "id": "se2-bp9vjk-ss2ud",
+    "date": "2026-04-26",
+    "subject": "Chemistry",
+    "chapter": "Chemical Kinetics",
+    "questionNumber": 8,
+    "resultType": "Wrong",
+    "errorType": "Formula recall",
+    "rootCause": "Mistake in first-order integrated form.",
+    "correctConcept": "k = 2.303/t log(a/(a-x)).",
+    "fixTask": "Revise formula sheet nightly.",
+    "retestDate": "2026-05-01",
+    "status": "Fixed"
+  },
+  {
+    "id": "se1-nufiax-ss2ud",
+    "date": "2026-04-28",
+    "subject": "Physics",
+    "chapter": "Alternating Current",
+    "questionNumber": 12,
+    "resultType": "Wrong",
+    "errorType": "Concept gap",
+    "rootCause": "Confused RMS and peak relation.",
+    "correctConcept": "Irms = I0/sqrt(2).",
+    "fixTask": "Do 20 AC objective questions.",
+    "retestDate": "2026-05-02",
+    "status": "Open"
+  }
+]
